@@ -2,7 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+Results/*
+models/*
+info.json
+catboost_info
 # C extensions
 *.so
 
